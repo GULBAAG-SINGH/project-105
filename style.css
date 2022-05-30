@@ -1,0 +1,17 @@
+body{
+    background: blue;
+    color: white;
+}
+.heading{
+    width: 50%;
+}
+#Camera{
+ border: 2px solid black;
+    width: 350px;
+    height: 300px;
+}
+
+#capture_button,#identify_button{
+    background-color: black;
+    color: white;
+}
